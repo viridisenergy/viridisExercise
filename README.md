@@ -6,7 +6,7 @@
 ### Description
 Conduct a proof of concept development of a fictitious application. This application is a simplified scope of industrial asset management, where we can manage equipment and maintenance orders.
 
-To do this you will count with a basic back-end App with some methods already implemented. This App was developed based on Spring Boot, PostgreSQL 9.4, JDK 8, Maven, SLF4J, Swagger, among others.
+To do this you will count with a basic back-end App with some methods already implemented. This App was developed based on Spring Boot, PostgreSQL 9.4, JDK 8, Maven, Lombok (tip: it has to be installed in the IDE), Swagger, among others.
 
 ### Goals
 
